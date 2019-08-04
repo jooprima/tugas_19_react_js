@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1558322001550,
+      "nama": "allen saputra",
+      "jabatan": "Security",
+      "jenisKelamin": "laki-laki",
+      "tanggalLahir": "1993-12-08"
+    },
+    {
+      "id": 1558322102027,
+      "nama": "satria",
+      "jabatan": "Marketing",
+      "jenisKelamin": "laki-laki",
+      "tanggalLahir": "1990-12-12"
+    },
+    {
+      "id": 1558322151304,
+      "nama": "putra agung",
+      "jabatan": "Security",
+      "jenisKelamin": "laki-laki",
+      "tanggalLahir": "1991-12-12"
+    },
+    {
+      "id": 1558322177756,
+      "nama": "gerysena",
+      "jabatan": "Marketing",
+      "jenisKelamin": "laki-laki",
+      "tanggalLahir": "2011-01-31"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
